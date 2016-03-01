@@ -10,29 +10,29 @@ Participatory-Evaluative-Quantitative-Behavioural,
 Participatory-Evaluative-Quantitative-Attidunal, 
 Participatory-Evaluative-Qualitative-Behavioural, Design Workshops
 Participatory-Evaluative-Qualitative-Attidunal, 
-Observational-Exploratory-Quantitative-Behavioural, g;g
+Observational-Exploratory-Quantitative-Behavioural, Task Analysis;g
 Observational-Exploratory-Quantitative-Attidunal, g;g
-Observational-Exploratory-Qualitative-Behavioural, Design Ethnography (Behavioural);g
-Observational-Exploratory-Qualitative-Attidunal, Design Ethnography (Attitudinal);g
+Observational-Exploratory-Qualitative-Behavioural, Design Ethnography 1;Observation
+Observational-Exploratory-Qualitative-Attidunal, Design Ethnography 2;g
 Observational-Generative-Quantitative-Behavioural, g;g
 Observational-Generative-Quantitative-Attidunal, g;g
 Observational-Generative-Qualitative-Behavioural, g;g
 Observational-Generative-Qualitative-Attidunal, g;g
-Observational-Evaluative-Quantitative-Behavioural, g;g
+Observational-Evaluative-Quantitative-Behavioural, Eyetracking;Usability Testing 1
 Observational-Evaluative-Quantitative-Attidunal, g;g
-Observational-Evaluative-Qualitative-Behavioural, g;g
+Observational-Evaluative-Qualitative-Behavioural, Usability Testing 2;g
 Observational-Evaluative-Qualitative-Attidunal, g;g
 Self reporting-Exploratory-Quantitative-Behavioural, g;g
-Self reporting-Exploratory-Quantitative-Attidunal, g;g
+Self reporting-Exploratory-Quantitative-Attidunal, Semantic Differentials;g
 Self reporting-Exploratory-Qualitative-Behavioural, Behavioural Culture Probe;g
-Self reporting-Exploratory-Qualitative-Attidunal, Attidunal Cultural Probe;g
+Self reporting-Exploratory-Qualitative-Attidunal, Attidunal Cultural Probe;Focus Groups
 Self reporting-Generative-Quantitative-Behavioural, g;g
 Self reporting-Generative-Quantitative-Attidunal, g;g
 Self reporting-Generative-Qualitative-Behavioural, g;g
 Self reporting-Generative-Qualitative-Attidunal, g;g
-Self reporting-Evaluative-Quantitative-Behavioural, g;g
+Self reporting-Evaluative-Quantitative-Behavioural, Usability Testing 1;g
 Self reporting-Evaluative-Quantitative-Attidunal, g;g
-Self reporting-Evaluative-Qualitative-Behavioural, g;g
+Self reporting-Evaluative-Qualitative-Behavioural, Usability Testing 2;g
 Self reporting-Evaluative-Qualitative-Attidunal, g;g
 Expert review-Exploratory-Quantitative-Behavioural, g;g
 Expert review-Exploratory-Quantitative-Attidunal, g;g
@@ -42,7 +42,7 @@ Expert review-Generative-Quantitative-Behavioural, g;g
 Expert review-Generative-Quantitative-Attidunal, g;g
 Expert review-Generative-Qualitative-Behavioural, g;g
 Expert review-Generative-Qualitative-Attidunal, g;g
-Expert review-Evaluative-Quantitative-Behavioural, g;g
+Expert review-Evaluative-Quantitative-Behavioural, Ergonomic Analysis;g
 Expert review-Evaluative-Quantitative-Attidunal, g;g
 Expert review-Evaluative-Qualitative-Behavioural, Cognitive Walkthrough;g
 Expert review-Evaluative-Qualitative-Attidunal, g;g
@@ -52,9 +52,9 @@ Design process-Exploratory-Qualitative-Behavioural, g;g
 Design process-Exploratory-Qualitative-Attidunal, g;g
 Design process-Generative-Quantitative-Behavioural, g;g
 Design process-Generative-Quantitative-Attidunal, g;g
-Design process-Generative-Qualitative-Behavioural, Bodystorming;g
-Design process-Generative-Qualitative-Attidunal, g;g
-Design process-Evaluative-Quantitative-Behavioural, A/B Testing;g
-Design process-Evaluative-Quantitative-Attidunal, g;g
+Design process-Generative-Qualitative-Behavioural, Bodystorming;Personas 1; Storyboards 1
+Design process-Generative-Qualitative-Attidunal, Personas 2;Storyboards 2
+Design process-Evaluative-Quantitative-Behavioural, A/B Testing;User Experiments 1
+Design process-Evaluative-Quantitative-Attidunal, User Experiments 2;g
 Design process-Evaluative-Qualitative-Behavioural, g;g
 Design process-Evaluative-Qualitative-Attidunal, g;g
