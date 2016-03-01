@@ -12,8 +12,8 @@ Participatory-Evaluative-Qualitative-Behavioural, Design Workshops
 Participatory-Evaluative-Qualitative-Attidunal, 
 Observational-Exploratory-Quantitative-Behavioural, g;g
 Observational-Exploratory-Quantitative-Attidunal, g;g
-Observational-Exploratory-Qualitative-Behavioural, g;g
-Observational-Exploratory-Qualitative-Attidunal, g;g
+Observational-Exploratory-Qualitative-Behavioural, Design Ethnography (Behavioural);g
+Observational-Exploratory-Qualitative-Attidunal, Design Ethnography (Attitudinal);g
 Observational-Generative-Quantitative-Behavioural, g;g
 Observational-Generative-Quantitative-Attidunal, g;g
 Observational-Generative-Qualitative-Behavioural, g;g
@@ -24,8 +24,8 @@ Observational-Evaluative-Qualitative-Behavioural, g;g
 Observational-Evaluative-Qualitative-Attidunal, g;g
 Self reporting-Exploratory-Quantitative-Behavioural, g;g
 Self reporting-Exploratory-Quantitative-Attidunal, g;g
-Self reporting-Exploratory-Qualitative-Behavioural, g;g
-Self reporting-Exploratory-Qualitative-Attidunal, g;g
+Self reporting-Exploratory-Qualitative-Behavioural, Behavioural Culture Probe;g
+Self reporting-Exploratory-Qualitative-Attidunal, Attidunal Cultural Probe;g
 Self reporting-Generative-Quantitative-Behavioural, g;g
 Self reporting-Generative-Quantitative-Attidunal, g;g
 Self reporting-Generative-Qualitative-Behavioural, g;g
@@ -44,7 +44,7 @@ Expert review-Generative-Qualitative-Behavioural, g;g
 Expert review-Generative-Qualitative-Attidunal, g;g
 Expert review-Evaluative-Quantitative-Behavioural, g;g
 Expert review-Evaluative-Quantitative-Attidunal, g;g
-Expert review-Evaluative-Qualitative-Behavioural, g;g
+Expert review-Evaluative-Qualitative-Behavioural, Cognitive Walkthrough;g
 Expert review-Evaluative-Qualitative-Attidunal, g;g
 Design process-Exploratory-Quantitative-Behavioural, g;g
 Design process-Exploratory-Quantitative-Attidunal, g;g
@@ -52,7 +52,7 @@ Design process-Exploratory-Qualitative-Behavioural, g;g
 Design process-Exploratory-Qualitative-Attidunal, g;g
 Design process-Generative-Quantitative-Behavioural, g;g
 Design process-Generative-Quantitative-Attidunal, g;g
-Design process-Generative-Qualitative-Behavioural, g;g
+Design process-Generative-Qualitative-Behavioural, Bodystorming;g
 Design process-Generative-Qualitative-Attidunal, g;g
 Design process-Evaluative-Quantitative-Behavioural, A/B Testing;g
 Design process-Evaluative-Quantitative-Attidunal, g;g
