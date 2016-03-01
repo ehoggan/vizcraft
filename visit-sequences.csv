@@ -34,27 +34,27 @@ Self reporting-Evaluative-Quantitative-Behavioural, Usability Testing 1
 Self reporting-Evaluative-Quantitative-Attidunal, Kano Analysis
 Self reporting-Evaluative-Qualitative-Behavioural, Usability Testing 2
 Self reporting-Evaluative-Qualitative-Attidunal, Interviews 3
-Expert review-Exploratory-Quantitative-Behavioural, g;g
-Expert review-Exploratory-Quantitative-Attidunal, g;g
-Expert review-Exploratory-Qualitative-Behavioural, g;g
-Expert review-Exploratory-Qualitative-Attidunal, g;g
-Expert review-Generative-Quantitative-Behavioural, g;g
-Expert review-Generative-Quantitative-Attidunal, g;g
-Expert review-Generative-Qualitative-Behavioural, g;g
-Expert review-Generative-Qualitative-Attidunal, g;g
-Expert review-Evaluative-Quantitative-Behavioural, Ergonomic Analysis;g
-Expert review-Evaluative-Quantitative-Attidunal, g;g
-Expert review-Evaluative-Qualitative-Behavioural, Cognitive Walkthrough;g
-Expert review-Evaluative-Qualitative-Attidunal, g;g
-Design process-Exploratory-Quantitative-Behavioural, g;g
-Design process-Exploratory-Quantitative-Attidunal, g;g
-Design process-Exploratory-Qualitative-Behavioural, g;g
-Design process-Exploratory-Qualitative-Attidunal, g;g
-Design process-Generative-Quantitative-Behavioural, g;g
-Design process-Generative-Quantitative-Attidunal, g;g
+Expert review-Exploratory-Quantitative-Behavioural,
+Expert review-Exploratory-Quantitative-Attidunal, 
+Expert review-Exploratory-Qualitative-Behavioural, 
+Expert review-Exploratory-Qualitative-Attidunal, 
+Expert review-Generative-Quantitative-Behavioural, 
+Expert review-Generative-Quantitative-Attidunal, 
+Expert review-Generative-Qualitative-Behavioural, 
+Expert review-Generative-Qualitative-Attidunal, 
+Expert review-Evaluative-Quantitative-Behavioural, Ergonomic Analysis;Heuristics
+Expert review-Evaluative-Quantitative-Attidunal, 
+Expert review-Evaluative-Qualitative-Behavioural, Cognitive Walkthrough;Heuristics
+Expert review-Evaluative-Qualitative-Attidunal, 
+Design process-Exploratory-Quantitative-Behavioural,
+Design process-Exploratory-Quantitative-Attidunal,
+Design process-Exploratory-Qualitative-Behavioural, Case Studies 1;Literature Review 1
+Design process-Exploratory-Qualitative-Attidunal, Case Studies 2;Literature Review 2
+Design process-Generative-Quantitative-Behavioural, 
+Design process-Generative-Quantitative-Attidunal, 
 Design process-Generative-Qualitative-Behavioural, Bodystorming;Personas 1; Storyboards 1
 Design process-Generative-Qualitative-Attidunal, Personas 2;Storyboards 2
 Design process-Evaluative-Quantitative-Behavioural, A/B Testing;User Experiments 1
-Design process-Evaluative-Quantitative-Attidunal, User Experiments 2;g
-Design process-Evaluative-Qualitative-Behavioural, g;g
-Design process-Evaluative-Qualitative-Attidunal, g;g
+Design process-Evaluative-Quantitative-Attidunal, User Experiments 2
+Design process-Evaluative-Qualitative-Behavioural, Prototyping 1
+Design process-Evaluative-Qualitative-Attidunal, Prototyping 2
