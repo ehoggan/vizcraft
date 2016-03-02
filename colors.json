@@ -1,14 +1,14 @@
 {
-  "Participatory": "#1484BB",
-  "Observational": "#0B26C8",
-  "Self reporting": "#0C5CD2",
-  "Expert review": "#0CC4D2",
-  "Design process": "#0BC8A0",
-  "Quantitative": "#370188",
-  "Qualitative": "#B214BB",
-  "Behavioural": "#0CD439",
+  "Participatory": "#1496BB",
+  "Observational": "#2e14bb",
+  "Self reporting": "#c5157e",
+  "Expert review": "#e46818",
+  "Design process": "#a3d016",
+  "Quantitative": "#e3181a",
+  "Qualitative": "#e4e318",
+  "Behavioural": "#e4ba18",
   "Attidunal": "#15882F",
-  "Exploratory": "#BB7014",
-  "Generative": "#D25D0C",
-  "Evaluative": "#C89B0B"
+  "Exploratory": "#145bbb",
+  "Generative": "#8214bb",
+  "Evaluative": "#e49118"
 }
