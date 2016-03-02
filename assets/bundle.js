@@ -66,6 +66,9 @@
 
 	(0, _jquery2.default)(function ($) {
 	  $(window).resize(init);
+	  $(window).click(function (e) {
+	    e.preventDefault();
+	  });
 	  _d2.default.text('visit-sequences.csv', function (text) {
 	    var csv = _d2.default.csv.parseRows(text);
 	    json = buildHierarchy(csv);
