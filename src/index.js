@@ -3,6 +3,7 @@ import $ from 'jquery';
 
 $($ => {
   $(window).resize(init);
+  $(window).click(false);
   d3.text('visit-sequences.csv', function(text) {
     var csv = d3.csv.parseRows(text);
     json = buildHierarchy(csv);
